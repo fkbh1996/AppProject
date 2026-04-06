@@ -19,8 +19,8 @@ import Purchases, {
 
 type Props = NativeStackScreenProps<RootStackParamList, "Paywall">;
 
-const REVENUECAT_API_KEY_IOS = "appl_YOUR_IOS_KEY";
-const REVENUECAT_API_KEY_ANDROID = "goog_YOUR_ANDROID_KEY";
+const REVENUECAT_API_KEY_IOS = "test_zVuOomJJuRLRHmWDKmppMpJsGIn";
+const REVENUECAT_API_KEY_ANDROID = "test_zVuOomJJuRLRHmWDKmppMpJsGIn";
 
 interface PlanOption {
   id: "weekly" | "annual";
